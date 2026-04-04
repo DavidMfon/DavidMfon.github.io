@@ -1,24 +1,15 @@
 # David Mfon - Data Analysis Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
-
-## About This Portfolio Template
-
-This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
 
 ## 🚀 Projects
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
+*Check out my projects on GitHub for some cool stuff I'm working on*
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+### Road Accident Dashboard (Excel)
+*This project focuses on the development of a fuly dynamic and interactive Road Accident Dashboard using Microsoft Excel. The dashboard provides meaningful insights into road accident casualties for the years 2021 and 2022, enabling stakeholders to analyze accident trends, casualty distribution, and key risk factors*
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+### Data Professional Survey (Power BI) and Netflix Dashboard (Tableau)
+*The repository contains two data analytics projects focused on deriving insights from real-world datasets. The Power BI project analyzes surevey responses from 600-700 data professionals to uncover trends in salary, tools, and work-life balance. The Tableau project visualizes Netflix content data, highlighting trends in genres, countries, and content distribution.*
 
 ### Project Title Three
 *A brief description of your project, the tools used, and the key insights derived.*
