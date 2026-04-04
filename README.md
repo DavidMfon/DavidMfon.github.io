@@ -11,8 +11,8 @@
 ### Data Professional Survey (Power BI) and Netflix Dashboard (Tableau)
 *The repository contains two data analytics projects focused on deriving insights from real-world datasets. The Power BI project analyzes surevey responses from 600-700 data professionals to uncover trends in salary, tools, and work-life balance. The Tableau project visualizes Netflix content data, highlighting trends in genres, countries, and content distribution.*
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+### Restaurant Order Analysis
+*A SQL based exploratory data analysis project that examines customer ordering behaviour at Taste of the World Cafe. The project analyzes menu items and order transactions to identify popular dishes, high value orders, spending patterns, and actionable insights to support menu optimization and revenue growth*
 
 
 ## 🛠️ Skills
